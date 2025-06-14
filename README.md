@@ -19,7 +19,7 @@
   - 🔹 **WhisperVerse** – Anonymous commenting platform *(React, Node.js, MySQL)*
   - 🔹 **AutismAlert** – Pediatric autism screening app using ISAA *(React Native, Firebase)*  
 - 💬 Ask me about anything web development, React, Firebase, or impactful tech!
-- 📫 Reach me at: **aditya123rajsingh@gmail.com**
+- 📫 Reach me at: **thisis.adityarajsingh@gmail.com**
 - 📎 [GitHub](https://github.com/Adityarajsingh2904)
 
 ---
