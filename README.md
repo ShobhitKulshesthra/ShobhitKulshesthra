@@ -13,14 +13,38 @@
 
 ### 🧠 About Me
 
-- 🌱 Passionate about building full-stack web and mobile applications
+- 🌱 Passionate about building full-stack web and mobile applications  
 - 🛠️ Recent Projects:
   - 🔹 **PayCart** – E-commerce web app with Razorpay integration *(React, Redux, Firebase)*
   - 🔹 **WhisperVerse** – Anonymous commenting platform *(React, Node.js, MySQL)*
   - 🔹 **AutismAlert** – Pediatric autism screening app using ISAA *(React Native, Firebase)*  
 - 💬 Ask me about anything web development, React, Firebase, or impactful tech!
-- 📫 Reach me at: **thisis.adityarajsingh@gmail.com**
-- 📎 [GitHub](https://github.com/Adityarajsingh2904)
+- 📫 Reach me at: **aditya123rajsingh@gmail.com**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityarajsingh2904&theme=radical&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💡 Currently Exploring
+
+- 🧠 Improving skills in **React Native** and **TypeScript**
+- 📈 Building scalable frontends and dashboards
+- 🧪 Experimenting with backend-as-a-service platforms (Firebase, Supabase)
+
+---
+
+### 💬 Ask Me About
+
+- React and Redux
+- Firebase & full-stack app architecture
+- Problem solving & DSA
+- Designing clean, responsive UIs
 
 ---
 
@@ -42,12 +66,25 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityarajsingh2904&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityarajsingh2904&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajsingh2904&layout=compact&theme=radical" width="40%" />
 </p>
