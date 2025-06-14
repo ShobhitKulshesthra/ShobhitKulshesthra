@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/adityarajsingh2904)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/aditya-raj-singh-1aa67a1b3/)
 
 <h1 align="center">Hi, I’m Aditya Raj Singh</h1>
 <h3 align="center">Final Year B.Tech (ECE) at IIIT-Allahabad</h3>
@@ -26,7 +26,7 @@
   <a href="https://github.com/Adityarajsingh2904" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/adityarajsingh2904/" target="_blank">
+  <a href="[https://www.linkedin.com/in/adityarajsingh2904/](https://www.linkedin.com/in/aditya-raj-singh-1aa67a1b3/)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
 </p>
