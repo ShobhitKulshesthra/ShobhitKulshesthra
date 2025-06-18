@@ -14,7 +14,7 @@
 ### 🧠 About Me
 
 - 🌱 Passionate about building full-stack web and mobile applications  
-- 🛠️ Recent Projects:
+- 🛠️ Recent Projects :
   - 🔹 **PayCart** – E-commerce web app with Razorpay integration *(React, Redux, Firebase)*
   - 🔹 **WhisperVerse** – Anonymous commenting platform *(React, Node.js, MySQL)*
   - 🔹 **AutismAlert** – Pediatric autism screening app using ISAA *(React Native, Firebase)*  
