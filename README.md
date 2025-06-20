@@ -197,8 +197,7 @@
 ### 📊 GitHub&nbsp;Stats
 
 <p align="center">
-  <img width="400"
-       src="https://github-readme-stats.vercel.app/api?username=Adityarajsingh2904&show_icons=true&theme=radical&count_private=true" />
+  
   <img width="400"
        src="https://streak-stats.demolab.com/?user=Adityarajsingh2904&theme=radical" />
 </p>
