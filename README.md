@@ -198,7 +198,7 @@
 <p align="center">
   
   <img width="400"
-       src="https://streak-stats.demolab.com/?user=Adityarajsingh2904&theme=radical" />
+       src="https://streak-stats.demolab.com/?user=Adityarajsingh&theme=radical" />
 </p>
 
 <p align="center">
