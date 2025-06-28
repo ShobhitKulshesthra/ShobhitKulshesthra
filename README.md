@@ -197,18 +197,16 @@
 
 <p align="center">
   
-  <img width="250" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsingh2904&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsingh2904&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img width="350"
+  <img width="320"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajsingh2904&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-<img width="250" 
-  src="https://github-readme-stats.vercel.app/api?username=adityarajsingh2904&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityarajsingh2904&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" />
   
 </p>
 
