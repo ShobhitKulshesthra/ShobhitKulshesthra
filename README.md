@@ -197,7 +197,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsingh2904&theme=radical&border_radius=10" width="48%" />
+  <img width="250" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsingh2904&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
@@ -206,7 +207,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityarajsingh2904&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" />
+<img width="250" 
+  src="https://github-readme-stats.vercel.app/api?username=adityarajsingh2904&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" />
   
 </p>
 
