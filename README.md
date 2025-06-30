@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/aditya-raj-singh-1aa67a1b3/)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/thisis-aditya-raj-singh/)
 
 <h1 align="center">Hi, I’m  Aditya Raj Singh 👋</h1>
 <h3 align="center">Final Year B.Tech (ECE) student at IIIT-Allahabad</h3>
@@ -38,7 +38,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/abhayupadhyay">
+  <a href="https://github.com/Adityarajsingh2904">
     <img src="https://github-profile-trophy.vercel.app/?username=Adityarajsingh2904&theme=radical&column=7" alt="GitHub Trophies" />
 </p>
   </a>
