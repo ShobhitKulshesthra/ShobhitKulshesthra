@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/aditya-raj-singh-1aa67a1b3/)
 
-<h1 align="center">Hi, I’m Aditya Raj Singh 👋</h1>
+<h1 align="center">Hi, I’m  Aditya Raj Singh 👋</h1>
 <h3 align="center">Final Year B.Tech (ECE) student at IIIT-Allahabad</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
