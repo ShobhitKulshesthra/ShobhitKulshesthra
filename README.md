@@ -15,11 +15,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" />  
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" />  
   <!-- add more as you like -->
 </p>
----
+-----------------------------------------------------------------------------------------------
+
 
 ### 🧠 About Me
 
@@ -37,7 +38,10 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityarajsingh2904&theme=radical&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/abhayupadhyay">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adityarajsingh2904&theme=radical&column=7" alt="GitHub Trophies" />
+</p>
+  </a>
 </p>
 
 ---
@@ -63,14 +67,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/thisis-aditya-raj-singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
+  &nbsp;&nbsp;
   <a href="https://github.com/Adityarajsingh2904" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/thisis-aditya-raj-singh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
-  <a href="mailto:thisis.adityarajsingh@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="30" height="30" />
+  &nbsp;&nbsp;
+  <a href="mailto:thisis.adityarajsingh.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
