@@ -240,10 +240,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityarajsingh2904&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" />
-  
+<img src="https://github-readme-stats.vercel.app/api?username=adityarajsingh2904&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" /> 
 </p>
-
 
 
 
