@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityarajsingh2904&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ShobhitKulshesthra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -38,8 +38,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/Adityarajsingh2904">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adityarajsingh2904&theme=radical&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/ShobhitKulshesthra">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShobhitKulshesthra&theme=radical&column=7" alt="GitHub Trophies" />
 </p>
   </a>
 </p>
@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
   &nbsp;&nbsp;
-  <a href="https://github.com/Adityarajsingh2904" target="_blank">
+  <a href="https://github.com/ShobhitKulshesthra" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   </a>
   &nbsp;&nbsp;
@@ -237,7 +237,7 @@
 
 <p align="center">
   <img width="320"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajsingh2904&layout=compact&theme=radical" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitKulshesthra&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
