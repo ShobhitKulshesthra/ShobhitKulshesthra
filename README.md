@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/thisis-aditya-raj-singh/)
 
-<h1 align="center">Hi, I’m  Aditya Raj Singh 👋</h1>
-<h3 align="center">Final Year B.Tech (ECE) student at IIIT-Allahabad</h3>
+<h1 align="center">Hi, I’m  Shobhit Kulshesthra 👋</h1>
+<h3 align="center">Final Year B.Tech (IT) student at IIIT-Allahabad</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
@@ -66,16 +66,11 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/thisis-aditya-raj-singh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>  
-  &nbsp;&nbsp;
   <a href="https://github.com/ShobhitKulshesthra" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:thisis.adityarajsingh@gmail.com" target="_blank">
+  <a href="mailto:iit2022109@iiita.ac.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -232,7 +227,7 @@
 <p align="center">
 
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsingh2904&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShobhitKulshesthra&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
@@ -241,7 +236,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityarajsingh2904&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=ShobhitKulshesthra&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" /> 
 </p>
 
 
